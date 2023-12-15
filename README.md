@@ -20,6 +20,8 @@ Data is stored in data.json. Follow the same format to add in new data and audio
 
 All code must be approved by a codeowner
 
+Need firebase credentials from codeowner
+
 Once the PR is merged, it will automatically be deployed
 
 ### Future development
