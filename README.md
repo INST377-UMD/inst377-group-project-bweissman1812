@@ -4,6 +4,8 @@ This project is to help learn hebrew and was designed as a study guide for Hebr-
 
 It can be used on most browsers and is best on google chrome desktop
 
+Developer: Benjamin Weissman
+
 https://hebrew-umd.web.app/
 
 ## Developer Manual
